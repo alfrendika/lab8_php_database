@@ -1,7 +1,7 @@
 # Lab8Web – Praktikum 8: PHP dan Database MySQL
 
 **Mata Kuliah:** Pemrograman Web OBE – Teknik Informatika
-**Nama / NIM / Kelas:** _(isi sendiri)_
+**Rahsya Alfrendika / 312510339 / Kelas: I253C**
 
 Aplikasi CRUD sederhana (Create, Read, Update, Delete) untuk data barang menggunakan PHP dan MySQL (XAMPP).
 
